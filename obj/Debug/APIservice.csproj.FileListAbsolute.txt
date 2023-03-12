@@ -1,0 +1,10 @@
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\obj\Debug\APIservice.csproj.AssemblyReference.cache
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\obj\Debug\APIservice.csproj.CoreCompileInputs.cache
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\bin\Debug\APIservice.exe.config
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\bin\Debug\APIservice.exe
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\bin\Debug\APIservice.pdb
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\obj\Debug\APIservice.csproj.CopyComplete
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\obj\Debug\APIservice.exe
+C:\Users\Sanda\Desktop\doc\olsi1\APIservice\obj\Debug\APIservice.pdb
