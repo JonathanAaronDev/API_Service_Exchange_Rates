@@ -2,13 +2,9 @@
 
 Database setup:
 - init table in sql express server
- CREATE TABLE CurrencyExchange (
-    [Key] VARCHAR(50) UNIQUE NOT NULL,
-    CurrentExchangeRate FLOAT NOT NULL,
-    CurrentChange FLOAT NOT NULL,
-    Unit INT NOT NULL,
-    LastUpdate DATETIME NOT NULL,
-    TimeSample DATETIME NOT NULL
+
+![image](https://user-images.githubusercontent.com/109544498/224575752-ad41ee79-9e36-4f53-9a2c-90495480e606.png)
+
     
 After setup:
 
