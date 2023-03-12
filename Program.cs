@@ -183,11 +183,11 @@ namespace APIservice
             async Task SendEmailAsync(string resBody)
             {
                 //initialize parameters for email
-                string to = "jonathanmicrosoftacc@gmail.com";
+                string to = "example@gmail.com";
                 string subject = "Update Currency Exchange Rates";
                 string body = resBody;
-                string from = "emailsander9090@gmail.com";
-                string password = "arqigtwdxbsryudc";
+                string from = "emailsander@gmail.com";
+                string password = "PUT_REAL_PASSWORD";
                 MailMessage message = new MailMessage(from, to, subject, body);
                 SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
                 client.EnableSsl = true;
